@@ -284,7 +284,7 @@
         text-align: center;
         padding-right: 12px;
         padding-left: 12px;
-        background-image: linear-gradient( rgba(46, 47, 66, 0.699),rgba(46, 47, 66, 0.699)), url('../images/people-office.jpg');
+        background-image: linear-gradient( rgba(46, 47, 66, 0.699),rgba(46, 47, 66, 0.699)), url('../images/people-office-mobile.jpg');
         background-size: cover;
         background-color: #2E2F42;
     }
@@ -310,7 +310,7 @@
    @media screen and (min-device-pixel-ratio: 2) and (max-width: 767px),
    screen and (min-resolution: 192dpi) and (max-width: 767px),
    screen and (min-resolution: 2dppx) and (max-width: 767px)  {
-   .overlay {
+   .hero{
        background-image: linear-gradient( rgba(46, 47, 66, 0.699),rgba(46, 47, 66, 0.699)), url(../images/people-office@2x.jpg);
    }
    }
