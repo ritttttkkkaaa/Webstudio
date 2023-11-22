@@ -2181,6 +2181,7 @@
         display: flex;
         justify-content: center;
         margin-bottom: 72px;
+        margin-top: 72px;
     }
     
     .filter-btn {
@@ -2228,6 +2229,7 @@
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
+        margin-bottom: 72px;
     }
     
     .content-item:not(:nth-child(3n)) {
